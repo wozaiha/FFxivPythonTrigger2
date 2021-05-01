@@ -34,7 +34,7 @@ try:
 
     register_modules([
         "SpeedHack",
-        "DebugExec",
+        #"DebugExec",
         "SkillAniUnlocker",
         "XivCombat"
     ])
